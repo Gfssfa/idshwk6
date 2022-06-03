@@ -1,0 +1,393 @@
+#date and time
+Fri Jun  3 19:35:35 CST 2022
+
+#os version
+Linux VM-4-11-ubuntu 4.15.0-159-generic #167-Ubuntu SMP Tue Sep 21 08:55:05 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+#hardware information
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 94
+model name	: Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+stepping	: 3
+microcode	: 0x1
+cpu MHz		: 2400.000
+cache size	: 28160 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx avx512f avx512dq rdseed adx smap clflushopt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 arat
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit srbds
+bogomips	: 4800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 94
+model name	: Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+stepping	: 3
+microcode	: 0x1
+cpu MHz		: 2400.000
+cache size	: 28160 KB
+physical id	: 0
+siblings	: 2
+core id		: 1
+cpu cores	: 2
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx avx512f avx512dq rdseed adx smap clflushopt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 arat
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit srbds
+bogomips	: 4800.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+
+MemTotal:        3875256 kB
+MemFree:         2023920 kB
+MemAvailable:    3370280 kB
+Buffers:          236032 kB
+Cached:          1251360 kB
+SwapCached:            0 kB
+Active:           937832 kB
+Inactive:         672372 kB
+Active(anon):     127340 kB
+Inactive(anon):     6844 kB
+Active(file):     810492 kB
+Inactive(file):   665528 kB
+Unevictable:        5440 kB
+Mlocked:            5440 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                92 kB
+Writeback:             0 kB
+AnonPages:        128324 kB
+Mapped:           201632 kB
+Shmem:              7324 kB
+Slab:             194132 kB
+SReclaimable:     148952 kB
+SUnreclaim:        45180 kB
+KernelStack:        2640 kB
+PageTables:         5616 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     1937628 kB
+Committed_AS:    1022768 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      165752 kB
+DirectMap2M:     2979840 kB
+DirectMap1G:     3145728 kB
+
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.9G     0  1.9G   0% /dev
+tmpfs           379M  7.2M  372M   2% /run
+/dev/vda1        79G   22G   54G  29% /
+tmpfs           1.9G   24K  1.9G   1% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.9G     0  1.9G   0% /sys/fs/cgroup
+tmpfs           379M     0  379M   0% /run/user/0
+
+#uptime
+ 19:42:16 up 7 days,  7:54,  1 user,  load average: 0.06, 0.02, 0.00
+
+#services information
+ [ - ]  acpid
+ [ + ]  apparmor
+ [ + ]  apport
+ [ + ]  atd
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ - ]  cryptdisks
+ [ - ]  cryptdisks-early
+ [ + ]  dbus
+ [ + ]  ebtables
+ [ + ]  grub-common
+ [ - ]  hwclock.sh
+ [ - ]  irqbalance
+ [ + ]  iscsid
+ [ + ]  kdump-tools
+ [ + ]  kexec
+ [ + ]  kexec-load
+ [ - ]  keyboard-setup.sh
+ [ + ]  kmod
+ [ - ]  lvm2
+ [ + ]  lvm2-lvmetad
+ [ + ]  lvm2-lvmpolld
+ [ + ]  lxcfs
+ [ - ]  lxd
+ [ - ]  mdadm
+ [ - ]  mdadm-waitidle
+ [ + ]  mst
+ [ - ]  nfs-common
+ [ + ]  ntp
+ [ - ]  open-iscsi
+ [ - ]  open-vm-tools
+ [ + ]  openibd
+ [ - ]  opensmd
+ [ - ]  plymouth
+ [ - ]  plymouth-log
+ [ + ]  procps
+ [ + ]  rpcbind
+ [ - ]  rsync
+ [ + ]  rsyslog
+ [ - ]  screen-cleanup
+ [ + ]  srptools
+ [ + ]  ssh
+ [ + ]  udev
+ [ + ]  ufw
+ [ + ]  unattended-upgrades
+ [ - ]  uuidd
+ [ - ]  x11-common
+
+#nic information
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.4.11  netmask 255.255.252.0  broadcast 10.0.7.255
+        inet6 fe80::5054:ff:fe4a:60e6  prefixlen 64  scopeid 0x20<link>
+        ether 52:54:00:4a:60:e6  txqueuelen 1000  (Ethernet)
+        RX packets 2802782  bytes 522967751 (522.9 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2670882  bytes 427586124 (427.5 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 219420  bytes 17808274 (17.8 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 219420  bytes 17808274 (17.8 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+#route information
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 VM-4-11-ubuntu:46810    169.254.0.34:9988       ESTABLISHED
+tcp        0     64 VM-4-11-ubuntu:ssh      153.3.60.2:58926        ESTABLISHED
+tcp        0      0 VM-4-11-ubuntu:58528    169.254.0.55:5574       ESTABLISHED
+tcp        0      0 VM-4-11-ubuntu:39688    169.254.0.138:8086      ESTABLISHED
+tcp        0      0 VM-4-11-ubuntu:39688    169.254.0.138:8086      ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  2      [ ]         DGRAM                    13743865 /run/user/0/systemd/notify
+unix  3      [ ]         DGRAM                    525      /run/systemd/notify
+unix  2      [ ]         DGRAM                    24831    /usr/local/qcloud/YunJing/conf/ydrpc_3
+unix  9      [ ]         DGRAM                    544      /run/systemd/journal/dev-log
+unix  2      [ ]         DGRAM                    547      /run/systemd/journal/syslog
+unix  8      [ ]         DGRAM                    557      /run/systemd/journal/socket
+unix  3      [ ]         STREAM     CONNECTED     22527    
+unix  3      [ ]         STREAM     CONNECTED     22958    
+unix  3      [ ]         STREAM     CONNECTED     18457    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     19820    
+unix  3      [ ]         STREAM     CONNECTED     23999    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     21000    
+unix  3      [ ]         STREAM     CONNECTED     17833    
+unix  3      [ ]         STREAM     CONNECTED     22528    
+unix  3      [ ]         STREAM     CONNECTED     21209    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     13336    
+unix  3      [ ]         STREAM     CONNECTED     22501    /var/run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    21343    
+unix  2      [ ]         DGRAM                    14515    
+unix  2      [ ]         DGRAM                    22487    
+unix  3      [ ]         STREAM     CONNECTED     19568    /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    20876    
+unix  3      [ ]         STREAM     CONNECTED     22500    
+unix  3      [ ]         STREAM     CONNECTED     13289    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     21208    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     19868    
+unix  3      [ ]         STREAM     CONNECTED     21207    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     15796    
+unix  3      [ ]         DGRAM                    527      
+unix  2      [ ]         DGRAM                    18102    
+unix  3      [ ]         STREAM     CONNECTED     19844    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     19567    
+unix  3      [ ]         STREAM     CONNECTED     21584    
+unix  2      [ ]         DGRAM                    20868    
+unix  3      [ ]         STREAM     CONNECTED     21204    
+unix  3      [ ]         STREAM     CONNECTED     19845    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     20602    
+unix  2      [ ]         DGRAM                    26435    
+unix  3      [ ]         STREAM     CONNECTED     21589    /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    13743822 
+unix  3      [ ]         STREAM     CONNECTED     19742    
+unix  2      [ ]         DGRAM                    727      
+unix  2      [ ]         DGRAM                    24050    
+unix  3      [ ]         DGRAM                    526      
+unix  3      [ ]         STREAM     CONNECTED     19851    /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    21201    
+unix  3      [ ]         STREAM     CONNECTED     20688    
+unix  3      [ ]         STREAM     CONNECTED     22378    /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    13043    
+unix  3      [ ]         STREAM     CONNECTED     19848    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     19643    
+unix  3      [ ]         STREAM     CONNECTED     22375    
+unix  3      [ ]         STREAM     CONNECTED     21203    
+unix  3      [ ]         STREAM     CONNECTED     20844    
+unix  3      [ ]         STREAM     CONNECTED     19644    /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM                    13743866 
+unix  3      [ ]         STREAM     CONNECTED     18287    
+unix  3      [ ]         DGRAM                    17870    
+unix  3      [ ]         STREAM     CONNECTED     21206    /var/run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM                    13743867 
+unix  3      [ ]         STREAM     CONNECTED     16496    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22783    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17964    
+unix  3      [ ]         STREAM     CONNECTED     18277    
+unix  2      [ ]         DGRAM                    13744525 
+unix  3      [ ]         STREAM     CONNECTED     13744504 
+unix  2      [ ]         DGRAM                    13744513 
+unix  3      [ ]         STREAM     CONNECTED     13634    /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    17863    
+unix  3      [ ]         DGRAM                    17873    
+unix  3      [ ]         STREAM     CONNECTED     13744522 /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM                    17872    
+unix  3      [ ]         STREAM     CONNECTED     22782    
+unix  3      [ ]         STREAM     CONNECTED     21205    /var/run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM                    14787    
+unix  3      [ ]         DGRAM                    17871    
+unix  3      [ ]         STREAM     CONNECTED     17965    /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM                    14788    
+unix  3      [ ]         STREAM     CONNECTED     14374 
+
+#arp information   
+Address                  HWtype  HWaddress           Flags Mask            Iface
+_gateway                 ether   fe:ee:8f:bf:86:99   C                     eth0
+
+#processes information
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.2  78948  8904 ?        Ss   May27   0:05 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    May27   0:00 [kthreadd]
+root         4  0.0  0.0      0     0 ?        I<   May27   0:00 [kworker/0:0H]
+root         6  0.0  0.0      0     0 ?        I<   May27   0:00 [mm_percpu_wq]
+root         7  0.0  0.0      0     0 ?        S    May27   0:07 [ksoftirqd/0]
+root         8  0.0  0.0      0     0 ?        I    May27   0:55 [rcu_sched]
+root         9  0.0  0.0      0     0 ?        I    May27   0:00 [rcu_bh]
+root        10  0.0  0.0      0     0 ?        S    May27   0:01 [migration/0]
+root        11  0.0  0.0      0     0 ?        S    May27   0:00 [watchdog/0]
+root        12  0.0  0.0      0     0 ?        S    May27   0:00 [cpuhp/0]
+root        13  0.0  0.0      0     0 ?        S    May27   0:00 [cpuhp/1]
+root        14  0.0  0.0      0     0 ?        S    May27   0:00 [watchdog/1]
+root        15  0.0  0.0      0     0 ?        S    May27   0:01 [migration/1]
+root        16  0.0  0.0      0     0 ?        S    May27   0:07 [ksoftirqd/1]
+root        18  0.0  0.0      0     0 ?        I<   May27   0:00 [kworker/1:0H]
+root        19  0.0  0.0      0     0 ?        S    May27   0:00 [kdevtmpfs]
+root        20  0.0  0.0      0     0 ?        I<   May27   0:00 [netns]
+root        21  0.0  0.0      0     0 ?        S    May27   0:00 [rcu_tasks_kthre]
+root        22  0.0  0.0      0     0 ?        S    May27   0:00 [kauditd]
+root        25  0.0  0.0      0     0 ?        S    May27   0:00 [khungtaskd]
+root        26  0.0  0.0      0     0 ?        S    May27   0:00 [oom_reaper]
+root        27  0.0  0.0      0     0 ?        I<   May27   0:00 [writeback]
+root        28  0.0  0.0      0     0 ?        S    May27   0:00 [kcompactd0]
+root        29  0.0  0.0      0     0 ?        SN   May27   0:00 [ksmd]
+root        30  0.0  0.0      0     0 ?        SN   May27   0:00 [khugepaged]
+root        31  0.0  0.0      0     0 ?        I<   May27   0:00 [crypto]
+root        32  0.0  0.0      0     0 ?        I<   May27   0:00 [kintegrityd]
+root        33  0.0  0.0      0     0 ?        I<   May27   0:00 [kblockd]
+root        34  0.0  0.0      0     0 ?        I<   May27   0:00 [ata_sff]
+root        35  0.0  0.0      0     0 ?        I<   May27   0:00 [md]
+root        36  0.0  0.0      0     0 ?        I<   May27   0:00 [edac-poller]
+root        37  0.0  0.0      0     0 ?        I<   May27   0:00 [devfreq_wq]
+root        38  0.0  0.0      0     0 ?        I<   May27   0:00 [watchdogd]
+root        41  0.0  0.0      0     0 ?        S    May27   0:00 [kswapd0]
+root        42  0.0  0.0      0     0 ?        I<   May27   0:00 [kworker/u5:0]
+root        43  0.0  0.0      0     0 ?        S    May27   0:00 [ecryptfs-kthrea]
+root        85  0.0  0.0      0     0 ?        I<   May27   0:00 [kthrotld]
+root        86  0.0  0.0      0     0 ?        I<   May27   0:00 [acpi_thermal_pm]
+root        87  0.0  0.0      0     0 ?        S    May27   0:00 [scsi_eh_0]
+root        88  0.0  0.0      0     0 ?        I<   May27   0:00 [scsi_tmf_0]
+root        89  0.0  0.0      0     0 ?        S    May27   0:00 [scsi_eh_1]
+root        90  0.0  0.0      0     0 ?        I<   May27   0:00 [scsi_tmf_1]
+root        96  0.0  0.0      0     0 ?        I<   May27   0:00 [ipv6_addrconf]
+root       105  0.0  0.0      0     0 ?        I<   May27   0:00 [kstrp]
+root       122  0.0  0.0      0     0 ?        I<   May27   0:00 [charger_manager]
+root       318  0.0  0.0      0     0 ?        I<   May27   0:00 [raid5wq]
+root       360  0.0  0.0      0     0 ?        I<   May27   0:05 [kworker/0:1H]
+root       379  0.0  0.0      0     0 ?        S    May27   0:13 [jbd2/vda1-8]
+root       380  0.0  0.0      0     0 ?        I<   May27   0:00 [ext4-rsv-conver]
+root       433  0.0  0.0      0     0 ?        I<   May27   0:02 [kworker/1:1H]
+root       445  0.0  5.4 357016 211592 ?       S<s  May27   0:21 /lib/systemd/systemd-journald
+root       468  0.0  0.0      0     0 ?        I<   May27   0:00 [rpciod]
+root       472  0.0  0.0      0     0 ?        I<   May27   0:00 [xprtiod]
+root       473  0.0  0.0  98776  1892 ?        Ss   May27   0:00 /sbin/lvmetad -f
+root       475  0.0  0.0      0     0 ?        I<   May27   0:00 [iscsi_eh]
+root       477  0.0  0.0      0     0 ?        I<   May27   0:00 [ib-comp-wq]
+root       478  0.0  0.0      0     0 ?        I<   May27   0:00 [ib-comp-unb-wq]
+root       479  0.0  0.0      0     0 ?        I<   May27   0:00 [ib_mcast]
+root       480  0.0  0.0      0     0 ?        I<   May27   0:00 [ib_nl_sa_wq]
+root       483  0.0  0.1  45560  5620 ?        Ss   May27   0:01 /lib/systemd/systemd-udevd
+root       484  0.0  0.0      0     0 ?        I<   May27   0:00 [rdma_cm]
+root       818  0.0  0.0  48664  3444 ?        Ss   May27   0:00 /sbin/rpcbind -f -w
+root       927  0.0  0.0      0     0 ?        I<   May27   0:00 [mlx5_ib_sigerr_]
+systemd+  1151  0.0  0.1  80968  5144 ?        Ss   May27   0:00 /lib/systemd/systemd-networkd
+systemd+  1180  0.0  0.1  71544  5196 ?        Ss   May27   0:17 /lib/systemd/systemd-resolved
+syslog    1306  0.0  0.1 264092  5184 ?        Ssl  May27   0:04 /usr/sbin/rsyslogd -n
+root      1308  0.0  0.0  31716  3236 ?        Ss   May27   0:05 /usr/sbin/cron -f
+root      1309  0.0  0.1 287928  6768 ?        Ssl  May27   0:09 /usr/lib/accountsservice/accounts-daemon
+root      1323  0.0  0.4 170832 17252 ?        Ssl  May27   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+daemon    1325  0.0  0.0  29384  2368 ?        Ss   May27   0:00 /usr/sbin/atd -f
+root      1326  0.0  0.0 236752  1968 ?        Ssl  May27   0:01 /usr/bin/lxcfs /var/lib/lxcfs/
+root      1329  0.0  0.1  71564  5904 ?        Ss   May27   0:00 /lib/systemd/systemd-logind
+message+  1331  0.0  0.1  51104  4388 ?        Ss   May27   0:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root      1354  0.1  0.1  23536  6328 ?        Sl   May27  13:41 /usr/local/qcloud/tat_agent/tat_agent
+root      1356  0.0  0.0  21736  3412 ?        S    May27   0:20 /bin/bash /usr/local/sa/agent/watchdog.sh
+root      1402  0.0  0.5  39364 21112 ?        Ss   May27   6:23 /usr/local/sa/agent/secu-tcs-agent
+root      1469  0.0  0.1  73352  6396 ?        Ss   May27   0:00 /usr/sbin/sshd -D
+root      1504  0.0  0.0  26432   300 ?        Ss   May27   0:08 /sbin/iscsid
+root      1505  0.0  0.1  26936  5284 ?        S<Ls May27   0:00 /sbin/iscsid
+root      1506  0.0  0.0  33200  2100 ?        Ssl  May27   0:00 /usr/sbin/rshim
+root      1529  0.0  0.1 289936  6592 ?        Ssl  May27   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1530  0.0  0.5 187644 20012 ?        Ssl  May27   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root      1549  0.0  0.0  13036   140 ?        Ss   May27   0:14 /usr/sbin/rngd -r /dev/hwrng
+ntp       1569  0.0  0.1 108824  4428 ?        Ssl  May27   0:22 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 111:115
+root      1709  0.0  0.0  18432  2448 ttyS0    Ss+  May27   0:00 /sbin/agetty -o -p -- \u --keep-baud 115200,38400,9600 ttyS0 vt220
+root      1727  0.0  0.0  18656  2016 tty1     Ss+  May27   0:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root      1991  0.0  0.2 1394424 10272 ?       Sl   May27   2:26 /usr/local/qcloud/YunJing/YDLive/YDLive
+root      2002  0.9  1.6 1047544 65028 ?       Sl   May27 100:52 /usr/local/qcloud/YunJing/YDEyes/YDService
+root      2121  0.0  0.0 101460  3564 ?        Sl   May27   0:05 /usr/local/qcloud/stargate/bin/sgagent -d
+root      2138  0.0  0.2  55936  9244 ?        S    May27   0:06 barad_agent
+root      2144  0.0  0.3  65604 11668 ?        S    May27   7:00 barad_agent
+root      2145  0.3  0.3 511428 15220 ?        Sl   May27  36:51 barad_agent
+root      2236  0.0  0.2 1314224 8204 ?        Sl   May27   1:32 /bin/sh -c sleep 100
+root      5534  0.0  0.0      0     0 ?        I    19:20   0:00 [kworker/0:0]
+root      8254  0.0  0.1 106744  7048 ?        Ss   19:33   0:00 sshd: root@pts/0
+root      8262  0.0  0.1  77556  7508 ?        Ss   19:33   0:00 /lib/systemd/systemd --user
+root      8263  0.0  0.0 110632  2500 ?        S    19:33   0:00 (sd-pam)
+root      8380  0.0  0.1  23572  6000 pts/0    Ss   19:33   0:00 -bash
+root      8819  0.0  0.0      0     0 ?        I    19:35   0:00 [kworker/u4:2]
+root     13188  0.0  0.0      0     0 ?        I    19:51   0:00 [kworker/u4:1]
+root     14357  0.0  0.0   9944   788 ?        S    19:57   0:00 sleep 60
+root     14393  0.0  0.0  37768  3368 pts/0    R+   19:57   0:00 ps aux
+root     15931  0.0  0.0      0     0 ?        I    12:04   0:01 [kworker/0:2]
+root     16910  0.0  0.0      0     0 ?        I    06:44   0:00 [kworker/1:0]
+root     28666  0.0  0.0      0     0 ?        I    Jun02   0:02 [kworker/1:1]
+root     31497  0.0  0.0      0     0 ?        I    18:48   0:00 [kworker/u4:0]
